@@ -1,4 +1,4 @@
-# sickkidsgenomics
+# Sickkids Genomics
 
 | Links                                |
 |--------------------------------------|
